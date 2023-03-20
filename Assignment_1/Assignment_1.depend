@@ -1,0 +1,264 @@
+# depslib dependency file v1.0
+1650710547 source:c:\users\anson\desktop\283 topic 5 onward\a1\assignment_1\main.cpp
+	<iostream>
+	<fstream>
+	"DATE.H"
+	"TIME.H"
+	"VECTOR.H"
+
+1650672930 c:\users\anson\desktop\283 topic 5 onward\a1\assignment_1\date.h
+	<iostream>
+	<iomanip>
+
+1650623550 c:\users\anson\desktop\283 topic 5 onward\a1\assignment_1\time.h
+	<iomanip>
+
+1650624165 c:\users\anson\desktop\283 topic 5 onward\a1\assignment_1\vector.h
+
+1650856334 source:c:\users\pc\desktop\a1\assignment_1\main.cpp
+	<iostream>
+	<fstream>
+	"DATE.H"
+	"TIME.H"
+	"VECTOR.H"
+
+1650672930 c:\users\pc\desktop\a1\assignment_1\date.h
+	<iostream>
+	<iomanip>
+
+1650623550 c:\users\pc\desktop\a1\assignment_1\time.h
+	<iomanip>
+
+1650624165 c:\users\pc\desktop\a1\assignment_1\vector.h
+
+1650862990 source:c:\users\pc\desktop\a1\attempts\attempt2\assignment_1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	"DATE.H"
+	"TIME.H"
+	"VECTOR.H"
+
+1650672930 c:\users\pc\desktop\a1\attempts\attempt2\assignment_1\date.h
+	<iostream>
+	<iomanip>
+
+1650623550 c:\users\pc\desktop\a1\attempts\attempt2\assignment_1\time.h
+	<iomanip>
+
+1650624165 c:\users\pc\desktop\a1\attempts\attempt2\assignment_1\vector.h
+
+1650963092 source:c:\users\pc\desktop\a1\attempts\attempt3\assignment_1\main.cpp
+	"WINDLOG.H"
+
+1650914856 c:\users\pc\desktop\a1\attempts\attempt3\assignment_1\date.h
+	<iostream>
+	<iomanip>
+
+1650914834 c:\users\pc\desktop\a1\attempts\attempt3\assignment_1\time.h
+	<iostream>
+	<iomanip>
+
+1650961094 c:\users\pc\desktop\a1\attempts\attempt3\assignment_1\vector.h
+
+1650890025 c:\users\pc\desktop\a1\attempts\attempt3\assignment_1\program.h
+	<iostream>
+	<fstream>
+	<sstream>
+	"DATE.H"
+	"TIME.H"
+	"VECTOR.H"
+
+1650882423 source:c:\users\pc\desktop\a1\attempts\attempt3\assignment_1\program.cpp
+	"PROGRAM.H"
+
+1650951543 source:c:\users\pc\desktop\a1\attempts\attempt3\assignment_1\date.cpp
+	"DATE.H"
+
+1650959139 c:\users\pc\desktop\a1\attempts\attempt3\assignment_1\windlog.h
+	<iostream>
+	<fstream>
+	<sstream>
+	"DATE.H"
+	"TIME.H"
+	"VECTOR.H"
+
+1650964866 source:c:\users\pc\desktop\a1\attempts\attempt3\assignment_1\windlog.cpp
+	"WINDLOG.H"
+
+1650914839 source:c:\users\pc\desktop\a1\attempts\attempt3\assignment_1\time.cpp
+	"TIME.H"
+
+1650888563 c:\users\pc\desktop\a1\attempts\attempt3\assignment_1\date.cpp
+	"DATE.H"
+
+1650910677 c:\users\pc\desktop\a1\attempts\attempt3\assignment_1\time.cpp
+	"TIME.H"
+
+1650982940 source:c:\users\pc\desktop\a1\attempts\attempt4\assignment_1\date.cpp
+	"DATE.H"
+
+1650982984 c:\users\pc\desktop\a1\attempts\attempt4\assignment_1\date.h
+	<iostream>
+	<iomanip>
+
+1650914839 source:c:\users\pc\desktop\a1\attempts\attempt4\assignment_1\time.cpp
+	"TIME.H"
+
+1650968021 c:\users\pc\desktop\a1\attempts\attempt4\assignment_1\time.h
+	<iostream>
+	<iomanip>
+
+1650990947 source:c:\users\pc\desktop\a1\attempts\attempt4\assignment_1\main.cpp
+	"WINDLOG.H"
+
+1650990207 c:\users\pc\desktop\a1\attempts\attempt4\assignment_1\windlog.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	"DATE.H"
+	"TIME.H"
+	"VECTOR.H"
+
+1650971541 c:\users\pc\desktop\a1\attempts\attempt4\assignment_1\vector.h
+
+1650990850 source:c:\users\pc\desktop\a1\attempts\attempt4\assignment_1\windlog.cpp
+	"WINDLOG.H"
+
+1650982940 source:c:\users\pc\desktop\a1\attempts\attempt5\assignment_1\date.cpp
+	"DATE.H"
+
+1650982984 c:\users\pc\desktop\a1\attempts\attempt5\assignment_1\date.h
+	<iostream>
+	<iomanip>
+
+1650914839 source:c:\users\pc\desktop\a1\attempts\attempt5\assignment_1\time.cpp
+	"TIME.H"
+
+1650968021 c:\users\pc\desktop\a1\attempts\attempt5\assignment_1\time.h
+	<iostream>
+	<iomanip>
+
+1651042116 source:c:\users\pc\desktop\a1\attempts\attempt5\assignment_1\windlog.cpp
+	"WINDLOG.H"
+
+1651039036 c:\users\pc\desktop\a1\attempts\attempt5\assignment_1\windlog.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	"DATE.H"
+	"TIME.H"
+	"VECTOR.H"
+
+1650971541 c:\users\pc\desktop\a1\attempts\attempt5\assignment_1\vector.h
+
+1651043855 source:c:\users\pc\desktop\a1\attempts\attempt5\assignment_1\main.cpp
+	<iostream>
+	<iomanip>
+	"WINDLOG.H"
+	<limits>
+
+1651058898 source:c:\users\pc\desktop\a1\attempts\attempt5\test1\assignment_1\date.cpp
+	"DATE.H"
+
+1650982984 c:\users\pc\desktop\a1\attempts\attempt5\test1\assignment_1\date.h
+	<iostream>
+	<iomanip>
+
+1650914839 source:c:\users\pc\desktop\a1\attempts\attempt5\test1\assignment_1\time.cpp
+	"TIME.H"
+
+1650968021 c:\users\pc\desktop\a1\attempts\attempt5\test1\assignment_1\time.h
+	<iostream>
+	<iomanip>
+
+1651058865 source:c:\users\pc\desktop\a1\attempts\attempt5\test1\assignment_1\main.cpp
+	<iostream>
+	<iomanip>
+	"WINDLOG.H"
+	<limits>
+
+1651055806 c:\users\pc\desktop\a1\attempts\attempt5\test1\assignment_1\windlog.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	"DATE.H"
+	"TIME.H"
+	"VECTOR.H"
+
+1651056412 c:\users\pc\desktop\a1\attempts\attempt5\test1\assignment_1\vector.h
+
+1651055835 source:c:\users\pc\desktop\a1\attempts\attempt5\test1\assignment_1\windlog.cpp
+	"WINDLOG.H"
+
+1651210305 source:c:\users\pc\desktop\a1\attempts\itruns\fix1\assignment_1\date.cpp
+	"DATE.H"
+
+1651206557 c:\users\pc\desktop\a1\attempts\itruns\fix1\assignment_1\date.h
+	<iostream>
+	<iomanip>
+
+1651210249 source:c:\users\pc\desktop\a1\attempts\itruns\fix1\assignment_1\time.cpp
+	"TIME.H"
+
+1651206561 c:\users\pc\desktop\a1\attempts\itruns\fix1\assignment_1\time.h
+	<iostream>
+	<iomanip>
+
+1651210173 source:c:\users\pc\desktop\a1\attempts\itruns\fix1\assignment_1\windlog.cpp
+	"WINDLOG.H"
+
+1651208791 c:\users\pc\desktop\a1\attempts\itruns\fix1\assignment_1\windlog.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	"DATE.H"
+	"TIME.H"
+	"VECTOR.H"
+
+1651206565 c:\users\pc\desktop\a1\attempts\itruns\fix1\assignment_1\vector.h
+
+1651210004 source:c:\users\pc\desktop\a1\attempts\itruns\fix1\assignment_1\main.cpp
+	<iostream>
+	<iomanip>
+	"WINDLOG.H"
+	<limits>
+
+1651210305 source:c:\users\pc\desktop\ict283_assignment1_anson_ting_lik_yuan_34212178\assignment_1\date.cpp
+	"DATE.H"
+
+1651206557 c:\users\pc\desktop\ict283_assignment1_anson_ting_lik_yuan_34212178\assignment_1\date.h
+	<iostream>
+	<iomanip>
+
+1651217842 source:c:\users\pc\desktop\ict283_assignment1_anson_ting_lik_yuan_34212178\assignment_1\main.cpp
+	<iostream>
+	<iomanip>
+	"WINDLOG.H"
+	<limits>
+
+1651208791 c:\users\pc\desktop\ict283_assignment1_anson_ting_lik_yuan_34212178\assignment_1\windlog.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	"DATE.H"
+	"TIME.H"
+	"VECTOR.H"
+
+1651206561 c:\users\pc\desktop\ict283_assignment1_anson_ting_lik_yuan_34212178\assignment_1\time.h
+	<iostream>
+	<iomanip>
+
+1651206565 c:\users\pc\desktop\ict283_assignment1_anson_ting_lik_yuan_34212178\assignment_1\vector.h
+
+1651210249 source:c:\users\pc\desktop\ict283_assignment1_anson_ting_lik_yuan_34212178\assignment_1\time.cpp
+	"TIME.H"
+
+1651210173 source:c:\users\pc\desktop\ict283_assignment1_anson_ting_lik_yuan_34212178\assignment_1\windlog.cpp
+	"WINDLOG.H"
+
